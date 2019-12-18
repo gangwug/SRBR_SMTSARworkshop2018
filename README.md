@@ -20,13 +20,17 @@ The SMTSAR workshop was hosted by Dr. Tanya Leise of Amherst College and Dr. Joh
 * If there are multiple R versions installed on your laptop, please follow [Using Different Versions of R](https://support.rstudio.com/hc/en-us/articles/200486138-Using-Different-Versions-of-R) to switch R version to the latest one. 
 
 * In the Console window, copy and paste the line of code below (both lines). This will install all of the packages required for the workshop.
-# install ‘tidyverse’, 'shiny’, MetaCycle, and ggrepel packages
+
+* Install ‘tidyverse’, 'shiny’, MetaCycle, and ggrepel packages
 install.packages(c(‘tidyverse’, ‘shiny’, ‘MetaCycle’, ‘ggrepel’))
 
 * Verify that the four packages have installed properly by opening the ‘Packages’ tab in the lower right quadrant of Studio. All packages that have been installed successfully will be listed. It is OK if the box next to the package name is not checked. During the workshop, we will load these packages into our workspace, at which time they will become checked boxes.
 
 ##### 3. Day of the workshop
+
 * Bring a fully charged laptop!
+
 * If your default web browser is Internet Explorer (IE), please [set default web browser](https://support.google.com/chrome/answer/95417?hl=en) to Chrome, Firefox or another one (IE does not play nice with the ’shiny' package). 
+
 * Bring a great attitude :)
 
