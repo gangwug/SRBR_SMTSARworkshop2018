@@ -2,7 +2,7 @@
 Statistical Methods for Time Series Analysis of Rhythms (SMTSAR) workshop in 2018 SRBR Meeting
 
 ## Introduction
-The SMTSAR workshop was hosted by Dr. Tanya Leise of Amherst College and Dr. John Hogenesch of the Cincinnati Children's Hospital Medical Center in 2018 SRBR meeting. The workshop demo for evaluating periodicity in large scale data using MetaCycle was lead by Dr. Marc D. Ruben. 
+The SMTSAR workshop was hosted by Dr. Tanya Leise of Amherst College and Dr. John Hogenesch of the Cincinnati Children's Hospital Medical Center in 2018 SRBR meeting. The workshop for evaluating periodicity in large scale data using MetaCycle was lead by Dr. [Marc D. Ruben](https://github.com/MarcDRuben). 
 
 ## Before the workshop
 
