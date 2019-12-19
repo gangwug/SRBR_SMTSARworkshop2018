@@ -4,7 +4,7 @@ Statistical Methods for Time Series Analysis of Rhythms (SMTSAR) workshop in 201
 ## Introduction
 The SMTSAR workshop was hosted by Dr. Tanya Leise of Amherst College and Dr. John Hogenesch of the Cincinnati Children's Hospital Medical Center in 2018 SRBR meeting. The workshop for evaluating periodicity in large scale data using MetaCycle was lead by Dr. [Marc D. Ruben](https://github.com/MarcDRuben). 
 
-## Before the workshop
+## Before doing exercise on the files
 
 ##### 1. Pre-install software
 * Please visit [CRAN](https://cran.cnr.berkeley.edu) to download the latest released R (version 3.5.0) and install it on your laptop.
@@ -26,11 +26,5 @@ install.packages(c(‘tidyverse’, ‘shiny’, ‘MetaCycle’, ‘ggrepel’)
 
 * Verify that the four packages have installed properly by opening the ‘Packages’ tab in the lower right quadrant of Studio. All packages that have been installed successfully will be listed. It is OK if the box next to the package name is not checked. During the workshop, we will load these packages into our workspace, at which time they will become checked boxes.
 
-##### 3. Day of the workshop
-
-* Bring a fully charged laptop!
-
-* If your default web browser is Internet Explorer (IE), please [set default web browser](https://support.google.com/chrome/answer/95417?hl=en) to Chrome, Firefox or another one (IE does not play nice with the ’shiny' package). 
-
-* Bring a great attitude :)
-
+## Acknowledgement
+The workshop was supported by Tiago de Andrade, Robert E. Schmidt, Lauren J. Francey, David F. Smith, and organizers of 2018 SRBR meetings.
